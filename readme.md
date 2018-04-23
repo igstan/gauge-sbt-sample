@@ -1,0 +1,1 @@
+# sbt plugin for gauge
